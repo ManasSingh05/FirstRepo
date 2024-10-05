@@ -1,0 +1,10 @@
+ls : List all files folders
+ls -a
+pwd: print working directory
+
+git add fileName
+git add .
+
+git commit -m "#Message#"
+git push origin branch_name
+ex: git push origin main
